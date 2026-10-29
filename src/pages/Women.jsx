@@ -1,8 +1,8 @@
 import React from 'react'
-
+import "../styles/Women.css"
 const Women = () => {
   return (
-    <div>
+    <div className='women-container'>
       
     </div>
   )

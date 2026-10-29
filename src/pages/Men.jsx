@@ -1,8 +1,8 @@
 import React from 'react'
-
+import "../styles/Men.css"
 const Men = () => {
   return (
-    <div>
+    <div className='men-container'>
       
     </div>
   )

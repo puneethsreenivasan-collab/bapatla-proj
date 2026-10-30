@@ -1,4 +1,489 @@
 {
-    "users":[],
-    "Products":[]
+  "users": [
+    {
+      "FullName": "Puneeth Sreenivasan C",
+      "Email": "puneethsreenivasan@codegnan.com",
+      "Password": "poutrewq",
+      "PhoneNumber": "7996115319",
+      "Address": "zxca",
+      "DateOfBirth": "2026-09-28",
+      "Gender": "Male",
+      "Country": "india",
+      "id": "qWxAXQGAwUo"
+    }
+  ],
+  "coverIMG": [
+    {
+      "id": 1,
+      "img": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/primary/ProductShowcasesampleimages/JPEG/Product+Showcase-1.jpg",
+      "category": "mens"
+    },
+    {
+      "id": 2,
+      "img": "https://constant.myntassets.com/pwa/assets/img/6916789c-0e4e-4e70-860b-7bed6af846681559216916445-women-category-cards_01_kurtas.jpg",
+      "category": "womens"
+    },
+    {
+      "id": 3,
+      "img": "https://constant.myntassets.com/pwa/assets/img/4d76fbbe-d72b-4df3-86f9-59e7152b66b51559216916400-women-category-cards_04_kurta_Sets.jpg",
+      "category": "womens"
+    },
+    {
+      "id": 4,
+      "img": "https://constant.myntassets.com/pwa/assets/img/c05e6606-cd11-4d96-895c-b1b8defc2d871559216808925-Men-category-cards_03_casual_shoes.jpg",
+      "category": "mens"
+    },
+    {
+      "id": 5,
+      "img": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg",
+      "category": "mens"
+    },
+    {
+      "id": 6,
+      "img": "https://constant.myntassets.com/pwa/assets/img/a876ce8c-5b1d-4b87-a5cd-626f20b8c1171559216916411-women-category-cards_03_tops.jpg",
+      "category": "womens"
+    },
+    {
+      "id": 7,
+      "img": "https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Men-category-cards_04_jeans.jpg",
+      "category": "mens"
+    },
+    {
+      "id": 8,
+      "img": "https://constant.myntassets.com/pwa/assets/img/7a363be2-002c-45a0-96b0-30c359ab7f5b1559216916421-women-category-cards_02_dresses.jpg",
+      "category": "womens"
+    },
+    {
+      "id": 9,
+      "img": "https://constant.myntassets.com/pwa/assets/img/3c637a0a-0cda-45a7-8ce8-5bb212d4b6411559216808935-Men-category-cards_02_shirts.jpg",
+      "category": "mens"
+    },
+    {
+      "id": 10,
+      "img": "https://constant.myntassets.com/pwa/assets/img/2a0ce60a-4d10-4e61-8c0a-f59f377213d51559216916390-women-category-cards_05_jeans.jpg",
+      "category": "womens"
+    },
+    {
+      "id": 11,
+      "img": "https://constant.myntassets.com/pwa/assets/img/ac2715e2-b2e6-41a8-9f91-79ed52d5eacb1559216808902-Men-category-cards_05_sports_shoes.jpg",
+      "category": "mens"
+    },
+    {
+      "id": 12,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/a04b47e134ad433b9aa3faf91c26e80d.png",
+      "category": "kids"
+    },
+    {
+      "id": 13,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/a8c48f53334e4ef1bc04613fd32b7c98.png",
+      "category": "kids"
+    },
+    {
+      "id": 14,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/e060205062fe4ad9bbb300feec00d3fb.png",
+      "category": "kids"
+    },
+    {
+      "id": 15,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/23/92f9d9af686b453a8bd504ac60574f9b.png",
+      "category": "kids"
+    },
+    {
+      "id": 16,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/d1ac0b4b77ce480c89a3a0d51481c99a.png",
+      "category": "kids"
+    },
+    {
+      "id": 17,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/d1f17a518a7c46449aa925a893589247.png",
+      "category": "kids"
+    },
+    {
+      "id": 18,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/8b97725b601e4e869f6a90eb0b70e792.png",
+      "category": "kids"
+    },
+    {
+      "id": 19,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/23/4806c3d8117d484dbb98dd304f3dcd98.png",
+      "category": "kids"
+    },
+    {
+      "id": 20,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/23/937c8618c79d406eba7f60d3748daff2.png",
+      "category": "kids"
+    },
+    {
+      "id": 21,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/ee7265dc3980401f84231da4a63a12e4.png",
+      "category": "kids"
+    },
+    {
+      "id": 22,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/8af5d4e985d9442b94ab7ba60c1e5a55.png",
+      "category": "kids"
+    },
+    {
+      "id": 23,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/6633b59170e647d89df83a7388a01e7a.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 24,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/51076d3f69874300a34e8d14a15a6724.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 25,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/38bae887fd5e4cbc9f37d280f1b3f0f6.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 26,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/baad44228611436c8b91149261a52160.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 27,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/d3ec4c6b7606434b845c260b575688e6.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 28,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/a7724cda7b0146239b5bc98d7e483417.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 29,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/6633b59170e647d89df83a7388a01e7a.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 30,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/cd69f2107f0f4e06ac1fc9ea77c660db.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 31,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/35bfe6477907480ea3495bf322093818.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 32,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/cce6cabcc48645659645e22368d1ed01.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 33,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/ae2eafdb0eae44bfb5e21038eb174fef.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 34,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/1fee574d68204fa4ab0513a95f4b1070.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 35,
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/83d70e15ebe048f989a991c7b0a75d15.jpg",
+      "category": "kids"
+    },
+    {
+      "id": 36,
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/51076d3f69874300a34e8d14a15a6724.jpg",
+      "category": "kids"
+    }
+  ],
+
+  "Products": [
+    {
+      "ProductName": "Men Classic Casual T-Shirt",
+      "ProductPrice": "799",
+      "ProductImg": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/primary/ProductShowcasesampleimages/JPEG/Product+Showcase-1.jpg",
+      "ProductDescription": "Premium quality casual T-shirt for men. Comfortable cotton fabric with a stylish modern fit, perfect for everyday wear.",
+      "ProductRating": "4.5",
+      "id": "mens001"
+    },
+    {
+      "ProductName": "Women Printed Cotton Kurta",
+      "ProductPrice": "999",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/6916789c-0e4e-4e70-860b-7bed6af846681559216916445-women-category-cards_01_kurtas.jpg",
+      "ProductDescription": "Elegant printed cotton kurta for women featuring a beautiful traditional design. Ideal for office wear and casual occasions.",
+      "ProductRating": "4.6",
+      "id": "womens002"
+    },
+    {
+      "ProductName": "Women Ethnic Kurta Set",
+      "ProductPrice": "1499",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/4d76fbbe-d72b-4df3-86f9-59e7152b66b51559216916400-women-category-cards_04_kurta_Sets.jpg",
+      "ProductDescription": "Beautiful ethnic kurta set designed with elegant detailing. A perfect choice for festive celebrations and traditional occasions.",
+      "ProductRating": "4.7",
+      "id": "womens003"
+    },
+    {
+      "ProductName": "Men Casual Sneakers",
+      "ProductPrice": "1799",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/c05e6606-cd11-4d96-895c-b1b8defc2d871559216808925-Men-category-cards_03_casual_shoes.jpg",
+      "ProductDescription": "Stylish casual shoes for men with a comfortable sole and modern design. Suitable for daily outings and casual styling.",
+      "ProductRating": "4.4",
+      "id": "mens004"
+    },
+    {
+      "ProductName": "Men Premium Cotton T-Shirt",
+      "ProductPrice": "699",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg",
+      "ProductDescription": "Soft and breathable cotton T-shirt with a regular fit. A versatile wardrobe essential for everyday comfort.",
+      "ProductRating": "4.5",
+      "id": "mens005"
+    },
+    {
+      "ProductName": "Women Stylish Casual Top",
+      "ProductPrice": "899",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/a876ce8c-5b1d-4b87-a5cd-626f20b8c1171559216916411-women-category-cards_03_tops.jpg",
+      "ProductDescription": "Trendy women's casual top with a fashionable silhouette. Perfect for pairing with jeans, trousers and skirts.",
+      "ProductRating": "4.3",
+      "id": "womens006"
+    },
+    {
+      "ProductName": "Men Slim Fit Denim Jeans",
+      "ProductPrice": "1299",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Men-category-cards_04_jeans.jpg",
+      "ProductDescription": "Modern slim-fit denim jeans made with comfortable stretch fabric. Perfect for casual outings and everyday styling.",
+      "ProductRating": "4.6",
+      "id": "mens007"
+    },
+    {
+      "ProductName": "Women Floral Printed Dress",
+      "ProductPrice": "1199",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/7a363be2-002c-45a0-96b0-30c359ab7f5b1559216916421-women-category-cards_02_dresses.jpg",
+      "ProductDescription": "Elegant women's dress with a stylish floral pattern. Designed for parties, vacations and casual occasions.",
+      "ProductRating": "4.5",
+      "id": "womens008"
+    },
+    {
+      "ProductName": "Men Formal Casual Shirt",
+      "ProductPrice": "1099",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/3c637a0a-0cda-45a7-8ce8-5bb212d4b6411559216808935-Men-category-cards_02_shirts.jpg",
+      "ProductDescription": "Smart men's shirt with a comfortable fit and sophisticated design. Suitable for office meetings, parties and casual occasions.",
+      "ProductRating": "4.4",
+      "id": "mens009"
+    },
+    {
+      "ProductName": "Women High Rise Denim Jeans",
+      "ProductPrice": "1399",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/2a0ce60a-4d10-4e61-8c0a-f59f377213d51559216916390-women-category-cards_05_jeans.jpg",
+      "ProductDescription": "Stylish high-rise denim jeans for women with a comfortable fit. Easy to pair with tops, shirts and everyday outfits.",
+      "ProductRating": "4.6",
+      "id": "womens010"
+    },
+    {
+      "ProductName": "Men Sports Running Shoes",
+      "ProductPrice": "1999",
+      "ProductImg": "https://constant.myntassets.com/pwa/assets/img/ac2715e2-b2e6-41a8-9f91-79ed52d5eacb1559216808902-Men-category-cards_05_sports_shoes.jpg",
+      "ProductDescription": "Lightweight sports shoes for men with a comfortable cushioned sole. Ideal for walking, jogging and daily workouts.",
+      "ProductRating": "4.7",
+      "id": "mens011"
+    },
+    {
+      "ProductName": "Kids Printed Casual T-Shirt",
+      "ProductPrice": "499",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/a04b47e134ad433b9aa3faf91c26e80d.png",
+      "ProductDescription": "Comfortable and stylish printed T-shirt for kids. Made for everyday activities, playtime and casual outings.",
+      "ProductRating": "4.4",
+      "id": "kids012"
+    },
+    {
+      "ProductName": "Kids Trendy Casual Outfit",
+      "ProductPrice": "799",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/a8c48f53334e4ef1bc04613fd32b7c98.png",
+      "ProductDescription": "A fashionable everyday outfit for kids featuring comfortable fabric and a playful design.",
+      "ProductRating": "4.5",
+      "id": "kids013"
+    },
+    {
+      "ProductName": "Kids Everyday Fashion Wear",
+      "ProductPrice": "599",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/e060205062fe4ad9bbb300feec00d3fb.png",
+      "ProductDescription": "Versatile kidswear designed for comfort and easy movement. Perfect for school holidays and everyday activities.",
+      "ProductRating": "4.3",
+      "id": "kids014"
+    },
+    {
+      "ProductName": "Kids Stylish Party Wear",
+      "ProductPrice": "1099",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/23/92f9d9af686b453a8bd504ac60574f9b.png",
+      "ProductDescription": "Attractive partywear outfit for kids with stylish detailing. A great option for birthdays and special occasions.",
+      "ProductRating": "4.6",
+      "id": "kids015"
+    },
+    {
+      "ProductName": "Kids Comfortable Daily Wear",
+      "ProductPrice": "549",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/d1ac0b4b77ce480c89a3a0d51481c99a.png",
+      "ProductDescription": "Soft and breathable everyday clothing for kids. Designed to provide comfort during playtime and outdoor activities.",
+      "ProductRating": "4.2",
+      "id": "kids016"
+    },
+    {
+      "ProductName": "Kids Fashion Casual Set",
+      "ProductPrice": "899",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/d1f17a518a7c46449aa925a893589247.png",
+      "ProductDescription": "Modern casual fashion set for kids. A stylish combination designed for comfortable everyday use.",
+      "ProductRating": "4.5",
+      "id": "kids017"
+    },
+    {
+      "ProductName": "Kids Premium Cotton Wear",
+      "ProductPrice": "649",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/8b97725b601e4e869f6a90eb0b70e792.png",
+      "ProductDescription": "Premium-feel cotton clothing for kids with a comfortable fit. Suitable for everyday wear and outdoor activities.",
+      "ProductRating": "4.4",
+      "id": "kids018"
+    },
+    {
+      "ProductName": "Kids Modern Trendy Outfit",
+      "ProductPrice": "749",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/23/4806c3d8117d484dbb98dd304f3dcd98.png",
+      "ProductDescription": "Trendy kidswear with a modern design and comfortable material. Perfect for family outings and casual occasions.",
+      "ProductRating": "4.3",
+      "id": "kids019"
+    },
+    {
+      "ProductName": "Kids Premium Casual Collection",
+      "ProductPrice": "999",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/23/937c8618c79d406eba7f60d3748daff2.png",
+      "ProductDescription": "A stylish casual clothing option for kids with a comfortable design suitable for everyday fashion.",
+      "ProductRating": "4.6",
+      "id": "kids020"
+    },
+    {
+      "ProductName": "Kids Fashion Essentials",
+      "ProductPrice": "599",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/ee7265dc3980401f84231da4a63a12e4.png",
+      "ProductDescription": "Essential everyday clothing for kids. Comfortable, versatile and easy to style for different occasions.",
+      "ProductRating": "4.2",
+      "id": "kids021"
+    },
+    {
+      "ProductName": "Kids Stylish Weekend Wear",
+      "ProductPrice": "849",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/22/8af5d4e985d9442b94ab7ba60c1e5a55.png",
+      "ProductDescription": "Stylish weekend outfit for kids designed with comfortable fabric and a fashionable look.",
+      "ProductRating": "4.5",
+      "id": "kids022"
+    },
+    {
+      "ProductName": "Kids New Season Collection",
+      "ProductPrice": "699",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/6633b59170e647d89df83a7388a01e7a.jpg",
+      "ProductDescription": "Fresh seasonal fashion for kids with a comfortable fit. A versatile choice for casual everyday styling.",
+      "ProductRating": "4.4",
+      "id": "kids023"
+    },
+    {
+      "ProductName": "Kids Casual Fashion Outfit",
+      "ProductPrice": "899",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/51076d3f69874300a34e8d14a15a6724.jpg",
+      "ProductDescription": "Modern casual outfit for kids with stylish detailing. Designed for comfort and everyday fashion.",
+      "ProductRating": "4.6",
+      "id": "kids024"
+    },
+    {
+      "ProductName": "Kids Everyday Style Collection",
+      "ProductPrice": "549",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/38bae887fd5e4cbc9f37d280f1b3f0f6.jpg",
+      "ProductDescription": "Comfortable everyday kidswear with an attractive design. Suitable for school holidays and casual outings.",
+      "ProductRating": "4.3",
+      "id": "kids025"
+    },
+    {
+      "ProductName": "Kids Trendy Seasonal Wear",
+      "ProductPrice": "799",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/baad44228611436c8b91149261a52160.jpg",
+      "ProductDescription": "Trendy seasonal clothing for kids with a comfortable and easy-to-wear design.",
+      "ProductRating": "4.5",
+      "id": "kids026"
+    },
+    {
+      "ProductName": "Kids Premium Fashion Wear",
+      "ProductPrice": "1199",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/d3ec4c6b7606434b845c260b575688e6.jpg",
+      "ProductDescription": "Premium-style kidswear designed for special outings and celebrations. Combines comfort with a modern look.",
+      "ProductRating": "4.7",
+      "id": "kids027"
+    },
+    {
+      "ProductName": "Kids Comfortable Fashion Set",
+      "ProductPrice": "749",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/a7724cda7b0146239b5bc98d7e483417.jpg",
+      "ProductDescription": "Comfortable and fashionable clothing set for kids. Perfect for casual wear and family outings.",
+      "ProductRating": "4.4",
+      "id": "kids028"
+    },
+    {
+      "ProductName": "Kids Modern Casual Wear",
+      "ProductPrice": "699",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/6633b59170e647d89df83a7388a01e7a.jpg",
+      "ProductDescription": "Modern everyday fashion for kids featuring a stylish appearance and comfortable design.",
+      "ProductRating": "4.3",
+      "id": "kids029"
+    },
+    {
+      "ProductName": "Kids Festive Fashion Collection",
+      "ProductPrice": "1299",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/cd69f2107f0f4e06ac1fc9ea77c660db.jpg",
+      "ProductDescription": "Attractive festive clothing for kids, designed for celebrations, family gatherings and special occasions.",
+      "ProductRating": "4.6",
+      "id": "kids030"
+    },
+    {
+      "ProductName": "Kids Stylish Daily Outfit",
+      "ProductPrice": "599",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/35bfe6477907480ea3495bf322093818.jpg",
+      "ProductDescription": "Stylish and comfortable daily outfit for kids. An easy-to-maintain option for regular use.",
+      "ProductRating": "4.4",
+      "id": "kids031"
+    },
+    {
+      "ProductName": "Kids Premium Weekend Collection",
+      "ProductPrice": "899",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/cce6cabcc48645659645e22368d1ed01.jpg",
+      "ProductDescription": "Premium weekend fashion for kids with a contemporary design. Suitable for casual outings and family events.",
+      "ProductRating": "4.5",
+      "id": "kids032"
+    },
+    {
+      "ProductName": "Kids Special Occasion Wear",
+      "ProductPrice": "1499",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/ae2eafdb0eae44bfb5e21038eb174fef.jpg",
+      "ProductDescription": "Special occasion outfit for kids featuring an elegant design. Ideal for parties, celebrations and family functions.",
+      "ProductRating": "4.7",
+      "id": "kids033"
+    },
+    {
+      "ProductName": "Kids Casual Cotton Collection",
+      "ProductPrice": "649",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/1fee574d68204fa4ab0513a95f4b1070.jpg",
+      "ProductDescription": "Soft casual cotton clothing for kids. Designed for all-day comfort and effortless everyday styling.",
+      "ProductRating": "4.3",
+      "id": "kids034"
+    },
+    {
+      "ProductName": "Kids Trendy Everyday Fashion",
+      "ProductPrice": "799",
+      "ProductImg": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/83d70e15ebe048f989a991c7b0a75d15.jpg",
+      "ProductDescription": "Trendy everyday clothing for kids with a modern look. Great for casual outings and comfortable daily use.",
+      "ProductRating": "4.5",
+      "id": "kids035"
+    },
+    {
+      "ProductName": "Kids Stylish Fashion Essentials",
+      "ProductPrice": "999",
+      "ProductImg": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/OCTOBER/26/51076d3f69874300a34e8d14a15a6724.jpg",
+      "ProductDescription": "A versatile kids fashion essential with a stylish design and comfortable fit. Suitable for everyday and casual occasions.",
+      "ProductRating": "4.6",
+      "id": "kids036"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

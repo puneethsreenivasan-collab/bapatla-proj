@@ -8,6 +8,7 @@ import Women from "./pages/Women";
 import Men from "./pages/Men";
 import Cart from "./pages/Cart";
 import CreateProduct from "./pages/Product/CreateProduct";
+import MensPro from "./pages/MensPro";
 
 const AllRoutes = () => {
   return (
@@ -23,6 +24,8 @@ const AllRoutes = () => {
 
         {/* product */}
         <Route path="/admin/createProduct" element={<CreateProduct />} />
+        <Route path="/MensPro" element={<MensPro />} />
+
       </Routes>
     </div>
   );

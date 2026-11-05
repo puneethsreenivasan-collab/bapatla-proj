@@ -29,7 +29,7 @@ const Men = () => {
       {/* if data is available then map else show loading */}
       {data.length > 0
         ? data
-            .filter((x) => x.category === "mens")
+            .filter((x) => x.category === "mens" )
             .map((x) => {
               return (
                 <Link to={`/MensPro`}>

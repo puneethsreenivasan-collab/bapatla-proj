@@ -8,6 +8,8 @@ const MensPro = () => {
 
   const [data, setData] = useState([]);
 
+// const [proname , setproname] = useState("");
+
   const dispatch = useDispatch();
 
   console.log(data);
@@ -35,6 +37,9 @@ const MensPro = () => {
 
   return (
     <div className="MensPro-container">
+
+{/* <input type="text" onChange={(x)=>{setproname(x.target.value)}} /> */}
+
       {/* if data is available then map else show loading */}
       {data.length > 0
         ? data.map((x) => {

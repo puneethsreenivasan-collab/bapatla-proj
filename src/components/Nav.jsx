@@ -1,6 +1,16 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import "../styles/nav.css";
 const Nav = () => {
+  const navigate = useNavigate();
+
+  const handleLogout = () => {
+    // Remove user from localStorage
+    localStorage.removeItem("user");
+
+    // Navigate to login page
+    navigate("/login");
+  };
+
   return (
     <nav>
       <div className="nav-logo">
@@ -28,6 +38,7 @@ const Nav = () => {
           {" "}
           <button> Cart </button>
         </Link>
+        <button onClick={handleLogout}>Logout</button>
       </div>
     </nav>
   );
